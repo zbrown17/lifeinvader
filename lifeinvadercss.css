@@ -1,0 +1,27 @@
+    html {
+        background: #b30000;
+        font-family: sans-serif;
+        font: ariel;
+        font-size: 12px;
+        color: black;
+        padding: 1em;
+    }
+
+.heading {
+    color: ghostwhite;
+    text-align: right;
+    background: maroon;
+    font-size: 30px;
+}
+.under {
+    color: ghostwhite;
+    text-align: right;
+    background: #b30000;
+    font-size: 15px;
+}
+.name {
+    font-size: 12px;
+ 
+}
+
+
